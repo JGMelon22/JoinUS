@@ -1,0 +1,24 @@
+{
+  "name": "joinus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGMelon22/JoinUS.git"
+  },
+  "author": "JGMelon22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGMelon22/JoinUS/issues"
+  },
+  "homepage": "https://github.com/JGMelon22/JoinUS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mysql": "^2.18.1"
+  }
+}
