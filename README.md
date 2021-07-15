@@ -10,4 +10,4 @@ A simple web app made to register emails to a database using Node JS, CSS and HT
 - Have fun :D
 
 # Image 
-![Screenshot_20210710_125534](https://user-images.githubusercontent.com/73988556/125169207-7da51880-e17f-11eb-87a4-8c7cfb3b4a9a.png)
+![Screenshot_20210715_100939](https://user-images.githubusercontent.com/73988556/125793963-2566e11d-8051-4f78-9649-1278e6613391.png)
